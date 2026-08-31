@@ -239,15 +239,6 @@ Led student team building neem-based micro-enterprise proposals with women's sel
 ![Business Consulting](https://img.shields.io/badge/-Business%20Consulting-1F77B4?style=flat)
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyaft271004-lgtm&show_icons=true&theme=default)
-
-</div>
-
-
 ## 🏆 Recognition & Certifications
 
 <div align="center">
