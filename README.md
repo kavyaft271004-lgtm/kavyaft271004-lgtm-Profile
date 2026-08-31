@@ -19,11 +19,7 @@
 💼 **5+ years at EY GDS** — risen from Analyst → Advanced Analyst → Team Lead in the PAS EMS practice
 - Global client management, RPA automation, process optimization, and strategic cost reduction
 
-🌱 **Current Leadership Roles:**
-- 🌍 Climate Resilience Field Project Lead (Karma Yoga Committee)
-- 👥 Citizen Consumer Club Head
-
-🎯 **Long-term Vision:** Management consulting & product management with a focus on educational leadership
+🎯 **Long-term Vision:** Management & Strategic consulting with a focus on educational leadership
 
 ✈️ **Outside Work:** Travel planning, badminton, volunteering in CSR initiatives
 
@@ -61,7 +57,6 @@
 | 🎯 **Achievement** | 📊 **Impact** |
 |---|---|
 | **Automated Billing Macro** | ↓ 20% billing discrepancies across 60+ accounts |
-| **RPA & Process Automation** | Foundation in automation frameworks |
 | **Recognition** | 🏆 Spot Award (2021) |
 
 **Key Competencies Developed:**
@@ -118,13 +113,7 @@
 |---|---|
 | **Program** | PGPM (Post-Graduate Program in Management) |
 | **Track** | 🔹 Consulting  🔹 Operations |
-| **Current Role** | 🌍 Climate Resilience Field Project Lead |
-| **Leadership** | 👥 Citizen Consumer Club Head |
 
-**Strategic Trajectory:**
-- 📋 Management Consulting Entry
-- 🚀 Product Management Pathway
-- 🎓 Educational Leadership Initiatives
 
 ---
 
@@ -134,12 +123,8 @@
 ╔═════════════════════════════════════════╗
 ║        🎓 EDUCATIONAL ROADMAP           ║
 ╠═════════════════════════════════════════╣
-║ 📘 B.A. Psychology                      ║
-║    Ethiraj College for Women            ║
-║                                         ║
-║ 🏆 Certifications (EY Credly)           ║
-║    • Process Innovation Specialist      ║
-║    • Strategic Management               ║
+║ 📘 B.Sc. Psychology                      ║
+║    Ethiraj College for Women, Chennai     ║
 ║                                         ║
 ║ 🎯 PGPM (2026–27)                       ║
 ║    Great Lakes Institute of Management  ║
@@ -253,41 +238,6 @@ Led student team building neem-based micro-enterprise proposals with women's sel
 ![ERP Design](https://img.shields.io/badge/-ERP%20Design-DC143C?style=flat)
 ![Business Consulting](https://img.shields.io/badge/-Business%20Consulting-1F77B4?style=flat)
 
----
-
-## 🌟 Career Trajectory at a Glance
-
-```
-                          GROWTH VECTOR
-                                 ↑
-                                 │
-                  ╱╱╱╱╱ Consulting & Product Mgmt
-                 ╱╱╱╱  (Goal: 2026+)
-                ╱╱╱╱
-               ╱╱╱
-              ╱╱
-    ┌────────────────────────────────────────────┐
-    │         PGPM Transition (Strategic Pivot)  │
-    │              (2026–2027)                   │
-    └────────────────────────────────────────────┘
-                    ↑
-    ┌────────────────────────────────────────────┐
-    │    Team Lead Phase (2023–2025)             │
-    │ Leadership · RPA · Cost Optimization       │
-    └────────────────────────────────────────────┘
-                    ↑
-    ┌────────────────────────────────────────────┐
-    │  Advanced Analyst Phase (2021–2023)        │
-    │  Portfolio Growth · BI · Client Strategy   │
-    └────────────────────────────────────────────┘
-                    ↑
-    ┌────────────────────────────────────────────┐
-    │   Analyst Phase (2019–2021)                │
-    │ Foundation · Automation · Problem-Solving  │
-    └────────────────────────────────────────────┘
-```
-
----
 
 ## 📊 GitHub Stats
 
@@ -297,9 +247,8 @@ Led student team building neem-based micro-enterprise proposals with women's sel
 
 </div>
 
----
 
-## 🏆 Recognition & Awards
+## 🏆 Recognition & Certifications
 
 <div align="center">
 
@@ -310,56 +259,7 @@ Led student team building neem-based micro-enterprise proposals with women's sel
 | 📜 Process Innovation Certification | EY Credly | Specialized expertise in process excellence |
 | 📜 Strategic Management Certification | EY Credly | Strategic business thinking & execution |
 
-</div>
 
----
-
-## 🎯 What's Next?
-
-<div align="center">
-
-```
-      🎓 PGPM (2026–27)
-        Consulting Track
-              ↓
-    ╔═══════════════════════╗
-    ║  Career Inflection    ║
-    ║  Point: Leverage EY   ║
-    ║  + PGPM + Leadership  ║
-    ║  for Consulting Entry ║
-    ╚═══════════════════════╝
-              ↓
-   ╭─────────────────────────────╮
-   │   EXIT OPPORTUNITIES        │
-   ├─────────────────────────────┤
-   │ 🔹 Management Consulting    │
-   │ 🔹 Product Management       │
-   │ 🔹 EdTech Leadership        │
-   │ 🔹 Social Impact + CSR      │
-   ╰─────────────────────────────╯
-```
-
-**Positioning Pillars:**
-- 📚 **Consulting Expertise:** EY background + PGPM specialization
-- ⚙️ **Operations Mastery:** 5+ years RPA, optimization, cost management
-- 👥 **Proven Leadership:** Team, field project, and club leadership
-- 🌱 **Mission-Driven:** Focus on education, sustainability, and social impact
-
-</div>
-
----
-
-## 📈 Summary
-
-<div align="center">
-
-**Career Arc:** Analyst → Advanced Analyst → Team Lead → Strategic Consultant
-
-**Core Strength:** Operations excellence + Strategic client management + Emerging consulting pathway
-
-**Experience:** 6+ years in corporate consulting & process optimization + PGPM specialization
-
-**Vision:** Transformative leadership in management consulting & education
 
 ---
 
